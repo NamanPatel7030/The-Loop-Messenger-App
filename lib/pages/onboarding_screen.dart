@@ -1,6 +1,5 @@
 import 'package:chatapp_firebase/pages/auth/login_page.dart';
 import 'package:flutter/material.dart';
-import 'phone_input_screen.dart';
 
 class OnboardingScreen extends StatelessWidget {
   const OnboardingScreen({super.key});
